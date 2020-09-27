@@ -1,2 +1,5 @@
 # learning
-$\text{S}1(N) = \sum{p=1}^N \text{E}(p)$
+$$
+\frac{n!}{k!(n-k)!} = {n \choose k}
+$$
+
